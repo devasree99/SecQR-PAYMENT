@@ -1,7 +1,7 @@
 # SecQR-PAYMENT
 Step 1: SecQR CODE validator
 The QR code validator is set up to perform secure payments by avoiding trojans in the website and other malwares. This can be implemented through html and css languages.
-The qr code is much more safe and secure with the most significant use of security.The qr code can be implemented by scanning the qrcode.png file.
+The qr code is much more safe and secure with the most significant use of security.The qr code can be implemented by scanning the frame.png file.
 Step 2:Face Detection Application
 The face detection application is the platform where the website can be safer without any trojans.The face detection is used with html,css and javascript.
 
